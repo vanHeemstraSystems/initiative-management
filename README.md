@@ -21,6 +21,8 @@ Text
 
 Generated with [Rytr](https://app.rytr.me)
 
+<img width="648" height="332" alt="Image" src="https://github.com/user-attachments/assets/65a90cdc-e548-41be-b2d3-f99d6efb6d3e" />
+
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
 <td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/[GITHUB ORGANIZATION]/[GITHUB REPOSITORY]/">ChatGPT</a></td>
